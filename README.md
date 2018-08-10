@@ -10,3 +10,8 @@ Technology Used:
  - In Memory DB
  - Jackson core
  
+Using Spring Boot framework for some advantages:
+- Dependency management.
+- Less time and effor to implement.
+- Embed Tomcat, Jetty or Undertow directly (no need to deploy WAR files)
+- Absolutely no code generation and no requirement for XML configuration
