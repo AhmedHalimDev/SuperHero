@@ -24,8 +24,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
  */
 @EnableSwagger2
 @SpringBootApplication
-public class SuperHeroApplication extends
-		WebMvcConfigurerAdapter {
+public class SuperHeroApplication extends WebMvcConfigurerAdapter {
 
 	/**
 	 * Main method.
